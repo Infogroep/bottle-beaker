@@ -1,2 +1,2 @@
 bottle>=0.9
-beaker
+beaker==1.11.0
