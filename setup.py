@@ -18,7 +18,7 @@ setup(
     url='https://github.com/bottlepy/bottle-beaker',
     py_modules=['bottle_beaker'],
     install_requires = REQUIREMENTS,
-    requires=['bottle (>=0.9)', 'beaker'],
+    requires=['bottle (>=0.9)', 'beaker==1.11.0'],
     classifiers=[
         'Environment :: Web Environment',
         'Environment :: Plugins',
